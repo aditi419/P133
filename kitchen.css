@@ -1,0 +1,26 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    height: fit-content;
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 5px 5px 5px white;
+    font-weight: 600;
+}
+
+.back{
+    box-shadow: 5px 5px 5px white;
+    margin-top: 40%;
+}
+
+canvas{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px white;
+    border-color: white;
+    border: solid;
+    margin-top: 50px;
+}
